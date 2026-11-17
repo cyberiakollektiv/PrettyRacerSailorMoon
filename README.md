@@ -1,2 +1,2 @@
 # PrettyRacerSailorMoon
-Sailor Moon mod for Wipeout-Rewrite (and possibly other versions).
+Sailor Moon pilot mod for Wipeout-Rewrite (and possibly other versions), using assets from "Sailor Moon Idinaloq".
